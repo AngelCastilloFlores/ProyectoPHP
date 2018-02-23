@@ -16,6 +16,40 @@ Este repositorio cuenta con dos carpetas:
  <br>
  <h4>Capturas vista cliente:</h4>
  <br>
- <img src="Capturas/index.png">
+ <img src="Capturas/index.PNG">
+ <br>
+ <img src="Capturas/index2.PNG">
+ <br>
+ <img src="Capturas/tienda.PNG">
+ <br>
+ <img src="Capturas/tienda2.PNG">
+ <br>
+ <img src="Capturas/articulo.PNG">
+ <br>
+ <img src="Capturas/contacto.PNG">
+ <br>
+ <img src="Capturas/login.PNG">
+ <br>
+ <img src="Capturas/registro.PNG">
+ <br>
+ <img src="Capturas/errorRegistro.PNG">
+ <br>
+ <img src="Capturas/session.PNG">
+ <br>
+ <br>
+ <h4>Capturas del administrador</h4>
+ <img src="Capturas/administrador.PNG">
+ <br>
+ <img src="Capturas/adminAll.PNG">
+ <br>
+ <img src="Capturas/searchAdmin.PNG">
+ <br>
+ <img src="Capturas/addAdmin.PNG">
+ <br>
+ <img src="Capturas/editAdmin.PNG">
+ <br>
+ <br>
+ <h4>Realizado por Ángel Castillo Flores</h4>
+ 
  
  
